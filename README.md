@@ -2,7 +2,7 @@
 *Setter és osztályok külön fájlokba. Saját kivételek. Kivétel kezelés.*
 
 Készítsen osztályt bank számla kezelésére. A bank számla osztály nyilvántartja a számlán lévő összeget, és hogy milyen típusú számláról van szó. Bankszámlát csak típusának megadásával és az egyenlegre rakott pénz megadásával lehet létrehozni. A bankszámla típusa egy szöveg, pl. „magánszámla”, „vállalkozói számla” stb. A bankszámla típusa legyen módosítható adat! A bankszálára a tulajdonos elhelyezhet adott összeget, vagy adott összeget levehet a számláról! Ha az osztály karakterlánccá alakítja, jelenjen meg a számla típusa és a rajta lévő összeg.  
-Hozzon létre osztályt a bankszámla tulajdonos kezelésére. A bankszámla tulajdonosnak legyen neve, és két bankszámlája (pl. magán számlája és család számlája). Biztosítsa, hogy a tulajdonos tudjon átvezetni pénzt a magánszámlájáról a családi számlájára! Átvezetéskor amennyi pénzt levesz a magánszámlájáról, annyi pénzt helyez el a családi számláján! 
+Hozzon létre osztályt a bankszámla tulajdonos kezelésére. A bankszámla tulajdonosnak legyen neve, és két bankszámlája (pl. magán számlája és család számlája). Biztosítsa, hogy a tulajdonos tudjon átvezetni pénzt a magánszámlájáról a családi számlájára! Átvezetéskor amennyi pénzt levesz a magánszámlájáról, annyi pénzt helyez el a családi számláján!  
 Készítsen programot, amelyben Pénzes Péternek van két számlája. Családi számláját nyissa meg 20000 Ft-al, magánszámláját 30000 Ft-al. Rakjon 5000 Ft-ot a családi számlájára, és vegyen le 15000 Ft-ot a családi számlájáról. Vezessen át 10000 Ft-ot a magánszámlájáról a családi számlájára!  
 
 [második rész]  
