@@ -8,7 +8,8 @@ Készítsen programot, amelyben Pénzes Péternek van két számlája. Családi 
 [második rész]  
 Bankszámla létrehozásakor a tulajdonosnak el kell helyeznie pénzt a számlán, legalább 10000 Ft értékben. Ha nem helyeznek el ennyi összeget a számlán, akkor dobjon saját kivételt az osztály! Bármennyi összeget el lehet helyezni a számlán, de levenni legfeljebb annyit amennyi a számlán van! Ha  a tulajdonos nagyobb összeget akar levonni, mint amennyi a számlán van, dobjon saját kivételt!  
 
-Biztosítsa, hogy csak nullánál nagyobb pénzösszeget lehessen átvezetni a magánszámláról a családi számlára! Ha nem ez történik, dobjon saját kivételt!
+Biztosítsa, hogy csak nullánál nagyobb pénzösszeget lehessen levenni a számláról! Ha nem ez történik, dobjon saját kivételt!
+Biztosítsa, hogy csak nullánál nagyobb értéket lehessen berakni a számlára! Ha nem ez történik, dobjon saját kivételt!
 
 A programban próbáljon létrehozni vállalkozói számlát -10000 Ft-al!  
 Számlanyitás után próbáljon 100000 Ft-ot levenni Pénzes Péter magánszámlájáról.  
