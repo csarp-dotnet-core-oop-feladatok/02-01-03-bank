@@ -1,7 +1,7 @@
 # 02-01-03-bank
 *Setter és osztályok külön fájlokba. Saját kivételek. Kivétel kezelés.*
 
-Készítsen osztályt bankszámla kezelésére (BankBalance). A bankszámla osztály nyilvántartja a számlán lévő összeget, és hogy milyen típusú számláról van szó (string). Bankszámlát csak típusának megadásával és az egyenlegre rakott pénz (amount) megadásával lehet létrehozni. A bankszámla típusa (type) egy szöveg, pl. „magánszámla”, „vállalkozói számla” stb. Bankszámla létrehozásakor harmadik paraméterként egy összeget kell megadni. Annál kevesebb összeggel nem jöhet létre a bankszámla. Ha az összeg kevesebb, akkor az egyenleget nullára kell állítani.
+Készítsen osztályt bankszámla kezelésére (BankBalance). A bankszámla osztály nyilvántartja a számlán lévő összeget, és hogy milyen típusú számláról van szó (string). Bankszámlát csak típusának megadásával és az egyenlegre rakott pénz (amount, double) megadásával lehet létrehozni. A bankszámla típusa (type) egy szöveg, pl. „magánszámla”, „vállalkozói számla” stb. Bankszámla létrehozásakor harmadik paraméterként egy összeget kell megadni (double). Annál kevesebb összeggel nem jöhet létre a bankszámla. Ha az összeg kevesebb, akkor az egyenleget nullára kell állítani.
 
 A bankszámla típusa legyen módosítható és olvasható adat! A számlán lévő összeg csak olvasható! A bankszálára a tulajdonos elhelyezhet adott összeget (Deposit), vagy adott összeget levehet a számláról (Withdraw)! Ha az osztály karakterlánccá alakítja, jelenjen meg a számla típusa és a rajta lévő összeg. Ebben a feladatrészben az rendellenességekkel még nem kell foglalkozni!
 
